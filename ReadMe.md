@@ -1,4 +1,4 @@
-## BRUTEPRINT: Expose Smartphone Fingerprint Authentication to Brute-force Attack
+## BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack
 
 实习陈述以及申诉过程。最后是申诉失败了，大家关心的 arXiv 链接（BrutePrint）是我在玄武实习期间，于21年8月完成的初稿版本，相关漏洞已被修复，收到的与新闻报道有关的email我就不回复了。
 
